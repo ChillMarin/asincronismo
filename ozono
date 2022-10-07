@@ -1,0 +1,77 @@
+# Características del proyecto
+
+## Características de los usuarios
+###  Básicas
+- Inicio de sesión
+- Registro
+- Lista de cursos
+- Mis cursos
+- Mis pagos
+- Mis calificaciones
+
+### Cursos
+- Pagar curso
+	- Métodos de pagos
+	- 	Efectivo, Transferencia y pago móvil
+- Clases
+	- Opciones de calidades de video
+		- 240px
+		- 360px
+		- 480px
+		- 720px
+		- 1080px
+	- Sección de recursos
+- ClassRoom
+	- Video
+	- Textos explicativo
+	- Área de recursos
+		- Documentos
+		- Audios
+- Profesores
+	- Ver profesores
+- Curriculum
+	- Ver clases y quizes
+	- Organización por módulos
+- Comentarios
+	- Ver comentarios
+
+## Administrador
+### Dashboard
+- Lista de cursos
+- Destacar curso
+
+### Curso
+- Crear curso
+	- Crear clases
+		- Subir video
+			- Manual
+			- Automático
+	- Crear Quizes
+- Editar curso
+- Eliminar curso
+- Destacar curso
+
+### Pagos
+-	Lista de pagos pendientes de aprobar x curso
+-	Historial de pagos
+- Pagos pendientes por aprobar
+- Editar datos de pago
+
+### Cupones
+- Crear cupon
+	- Asignar porcentaje de descuento
+	- Asignar nombre al cupón
+
+### Gestión de correos
+-	Envío de correos masivos
+-	Rol
+-	Selección múltiple
+-	Buscador de usuario
+
+### Estadisticas
+- Ventas x mes
+- Usuarios x curso
+
+
+
+
